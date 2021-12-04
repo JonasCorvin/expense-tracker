@@ -1,0 +1,15 @@
+.expenses {
+  padding: 1rem;
+  background-color: rgb(101, 45, 133);
+  border: 3px white solid ;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+}
+
+.expenses-content{
+  text-align: center;
+  font-weight: bold;
+  color:black ;
+  font-size: 2rem;
+}
